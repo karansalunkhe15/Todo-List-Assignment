@@ -1,0 +1,19 @@
+.list {
+  list-style-type: none;
+}
+li {
+  background-color: rgb(226, 243, 243);
+  margin: 12px;
+  width: 25%;
+  text-align: start;
+  padding-left: 20px;
+  margin-left: 35%;
+}
+.removeBtn {
+  float: right;
+  background-color: white;
+  color: black;
+  border: 1px solid #fa3706;
+  padding: 2px 4px;
+  cursor: pointer;
+}

@@ -1,0 +1,17 @@
+#todo {
+  width: 20%;
+  height: 20px;
+}
+
+.btn1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008cba;
+  padding: 2px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
